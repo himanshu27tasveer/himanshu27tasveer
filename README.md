@@ -35,12 +35,12 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-[![PostgreSql](https://img.shields.io/badge/-PostgreSql-54ddff?style=flat&logo=postgresql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-c2ffc2?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-545454?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=333333&&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 
