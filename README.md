@@ -34,7 +34,7 @@
 
  [![ExpressJs](https://img.shields.io/badge/-ExpressJs-white?style=flat&logo=expressjs&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
-[![Django](https://img.shields.io/badge/-django-0f4700?style=flat&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Django](https://img.shields.io/badge/-Django-0b3600?style=flat&logo=django&logoColor=white&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
