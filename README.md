@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72F700&center=true&vCenter=true&multiline=true&height=150&lines=hello%2C+I'm+a+web+developer;And+a+photographer;And+an+Electronics+Engineer;WHO;Loves+to+work+with+javascript)](https://git.io/typing-svg)
+<div style="text-align: center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72F700&center=true&vCenter=true&multiline=true&height=150&lines=hello%2C+I'm+a+web+developer;And+a+photographer;And+an+Electronics+Engineer;WHO;Loves+to+work+with+javascript)](https://git.io/typing-svg)
+</div>
 
 <pre style="background-image: url("https://media-exp1.licdn.com/dms/image/C4E03AQFNbpWj4EaoEg/profile-displayphoto-shrink_100_100/0/1622614226851?e=1636588800&v=beta&t=6988V2T_1R7MmiyziI6WKfIrHcBrjnM3S99MslxXyg0"); background-color: "transparent";">
 - 🔭 I’m a web developer (More preciously a javascript developer)
