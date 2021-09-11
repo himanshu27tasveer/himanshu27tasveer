@@ -26,7 +26,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Material Ui](https://img.shields.io/badge/-Material+Ui-1976d2?style=flat&logo=material+ui&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
@@ -34,7 +34,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-79589f?style=flat&logo=heroku&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
- [![ExpressJs](https://img.shields.io/badge/-ExpressJs-white?style=flat&logo=expressjs&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+ [![ExpressJs](https://img.shields.io/badge/-express-white?style=flat&logo=expressjs&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Django](https://img.shields.io/badge/-Django-0b3600?style=flat&logo=django&logoColor=white&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
