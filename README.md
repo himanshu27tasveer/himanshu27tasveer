@@ -54,7 +54,9 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=himanshu27tasveer&theme=gruvbox" alt="Himanshu Mahawar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=himanshu27tasveer&theme=gruvbox" alt="Himanshu Mahawar"  />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=himanshu27tasveer&theme=dracula&no-bg=true&row=1"/>
+</p>
 
 <hr>
 <p align="center">
