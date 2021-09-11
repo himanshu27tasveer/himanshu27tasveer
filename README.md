@@ -32,6 +32,10 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-79589f?style=flat&logo=heroku&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
+ [![ExpressJs](https://img.shields.io/badge/-ExpressJs-white?style=flat&logo=expressjs&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Django](https://img.shields.io/badge/-django-0f4700?style=flat&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+
 [![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
