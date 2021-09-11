@@ -39,7 +39,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-[![Typescript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Typescript](https://img.shields.io/badge/-TypeScript-545454?style=flat&logo=typescriptt&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
