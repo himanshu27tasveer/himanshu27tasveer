@@ -37,7 +37,7 @@
 
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-white?style=flat&logo=postgresql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-c2ffc2?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-545454?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
