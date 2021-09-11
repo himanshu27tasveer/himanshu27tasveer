@@ -29,7 +29,7 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Heroku](https://img.shields.io/badge/-Heroku-79589f?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
