@@ -13,7 +13,7 @@
 
 - 📫 Reach me through : <a href="https://www.facebook.com/himanshu27.stu" target="_blank"><img src="https://static.xx.fbcdn.net/rsrc.php/yb/r/hLRJ1GG_y0J.ico" height="20px" width="20px" alt="Facebook"/></a>   <a href="https://twitter.com/imhimanshu27" target="_blank"><img height="20px" width="20px" src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter"/></a>   <a href="https://www.linkedin.com/in/im-himanshu27" target="_blank"><img height="20px" width="20px" src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" alt="LinkedIn"/></a>   <a href="https://www.instagram.com/himanshu.tasveer" target="_blank"><img height="20px" width="20px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" alt="Instagram"/></a>  <a href="https://hashnode.com/@ray-victorous" target="_blank"><img height="20px" width="20px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png" alt="Hashnode"/></a>
 
-- Read my blogs : <a href="https://tasveer.hashnode.com" target="_blank"><img height="20px" width="20px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png" alt="Hashnode"/></a>
+- Read my blogs : <a href="https://tasveer.hashnode.dev" target="_blank"><img height="20px" width="20px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png" alt="Hashnode"/></a>
 
 - ⚡ Fun fact: I don't sleep.
 
