@@ -17,6 +17,9 @@
 
 </pre>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=CA0000&size=40&center=true&vCenter=true&width=700&height=150&lines=Stats+aren't+too+good+but+they+will+be)](https://git.io/typing-svg)
+
+
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=himanshu27tasveer&theme=gruvbox" alt="Himanshu Mahawar"  /></p>
 
