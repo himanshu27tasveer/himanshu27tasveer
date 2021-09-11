@@ -21,27 +21,29 @@
 
 <br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Material Ui](https://img.shields.io/badge/-Material+Ui-1976d2?style=flat&logo=material+ui&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Material Ui](https://img.shields.io/badge/-Material+Ui-1976d2?style=flat&logo=material+ui&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Heroku](https://img.shields.io/badge/-Heroku-79589f?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Heroku](https://img.shields.io/badge/-Heroku-79589f?style=flat&logo=heroku&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
 
-[![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-c2ffc2?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-[![Typescript](https://img.shields.io/badge/-TypeScript-545454?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=blue&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-c2ffc2?style=flat&logo=mongodb&link=https://github.com/himanshu27tasveer)](https://gitlab.com/himanshu27tasveer) 
+
+[![Typescript](https://img.shields.io/badge/-TypeScript-545454?style=flat&logo=typescript&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
+[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=blue&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
+[![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=CA0000&size=40&center=true&vCenter=true&width=700&height=150&lines=Stats+aren't+too+good+but+they+will+be)](https://git.io/typing-svg)
