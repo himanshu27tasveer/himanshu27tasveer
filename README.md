@@ -28,7 +28,7 @@
 [![Material Ui](https://img.shields.io/badge/-Material+Ui-1976d2?style=flat&logo=material+ui&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
+[![Angular](https://img.shields.io/badge/-Angular-a30000?style=flat&logo=angular&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Heroku](https://img.shields.io/badge/-Heroku-79589f?style=flat&logo=heroku&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 [![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/himanshu27tasveer)](https://github.com/himanshu27tasveer) 
 
