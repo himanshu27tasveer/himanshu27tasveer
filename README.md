@@ -1,5 +1,5 @@
 ### Hi there 👋
-<pre>
+<pre style="background-image: url("https://media-exp1.licdn.com/dms/image/C4E03AQFNbpWj4EaoEg/profile-displayphoto-shrink_100_100/0/1622614226851?e=1636588800&v=beta&t=6988V2T_1R7MmiyziI6WKfIrHcBrjnM3S99MslxXyg0")">
 - 🔭 I’m a web developer (More preciously a javascript developer)
 
 - 🌱 I’m currently digging core javascript and also Functional Programming.
