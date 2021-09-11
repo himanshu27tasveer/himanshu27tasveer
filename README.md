@@ -70,3 +70,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=himanshu27tasveer&theme=gruvbox&hide_border=true&area=true)
 
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/himanshu27tasveer/count.svg)
+
