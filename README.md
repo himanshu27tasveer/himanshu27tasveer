@@ -32,15 +32,15 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![PostgreSql](https://img.shields.io/badge/-PostgreSql-white?style=flat&logo=postgresql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![C++](https://img.shields.io/badge/-c++-white?style=flat&logo=c++&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 
